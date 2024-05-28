@@ -6,7 +6,7 @@ meu nome é Gustavo Ferreira
 - estou me desenvolvendo na linguagem [JavaScript](https://www.p5js.com.br)
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### você po entrar em contato comigo 
+### você pode entrar em contato comigo 
 
 000110566837XSP@al.educacao.sp.gov.br
 
