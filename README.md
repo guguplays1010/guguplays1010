@@ -1,12 +1,12 @@
-###  boas vindas ao meu perfil
+###  Boas vindas ao meu perfil
 
-meu nome é Gustavo Ferreira 
+Meu nome é Gustavo Ferreira 
 
-- estou estudando no [Alura](https://www.alura.com.br)
-- estou me desenvolvendo na linguagem [JavaScript](https://www.p5js.com.br)
-- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem [JavaScript](https://www.p5js.com.br)
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### você pode entrar em contato comigo 
+### Você pode entrar em contato comigo 
 
 000110566837XSP@al.educacao.sp.gov.br
 
